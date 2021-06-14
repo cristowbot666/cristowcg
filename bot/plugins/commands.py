@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🐽ᴛᴇʟᴇᴠɪsɪᴏɴ ᴍᴀʀᴋᴇᴛ🐽', url="https://t.me/televisionmarket"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🐽ᴛᴇʟᴇᴠɪsɪᴏɴ ᴍᴀʀᴋᴇᴛ🐽', url="https://t.me/televisionmarket"
                                 )
                         ]
                     ]
