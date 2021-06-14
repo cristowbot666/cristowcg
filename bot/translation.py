@@ -8,7 +8,7 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot....😉
 
 ☠️You can't use me to your group i am belongs to @Televisionmarket🙃🙃
-@cristow
+
 
 </i>"""    
     
